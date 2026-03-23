@@ -23,4 +23,4 @@ This Arduino project reads AC voltage using the **ZMPT101B** voltage sensor modu
 
 2. Clone this repository or download the code:
    ```bash
-   git clone https://github.com/CJdevX//ZMPT101B_Voltage_Sensor_Test.git
+   https://github.com/CJdevX/ZMPT101B_Voltage_Sensor_Test.git
